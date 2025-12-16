@@ -1,11 +1,3 @@
-line one
-line two 
-line three
-Continue working on main branch
-I am on new_branch
-" I am in main branch" 
-"I am in main branch" 
-"I am in main branch" 
-
-
-I am Mohammad 
+one
+two
+three
